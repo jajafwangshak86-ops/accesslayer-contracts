@@ -15187,3 +15187,6 @@ mod test_staking_lifecycle;
 
 #[cfg(test)]
 mod test_issues_904_905_906_908;
+
+#[cfg(test)]
+mod test_issues_978_980_981_983;
